@@ -1,0 +1,28 @@
+{
+  "ads":"true",
+  "update":[{
+    "version":"2.8.2000",
+    "title":"Unggoy wag mo to ipagkalat!!!",
+    "description":"gawa to ng isang kupal",
+    "size":"7mb"
+  }],
+  "blocked":[
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"com.insta.client"},
+    {"id":5, "app":"com.facebook.client"},
+    {"id":6, "app":"com.get.client"}
+  ],
+  "free":[
+    {"id":0, "file":0, "city":"Singapore1","country":"United States","image":"unitedstates","ip":"134.209.108.223","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Singapore2","country":"Germany","image":"luxemburg","ip":"1.1.1.1","active":"true","signal":"c"},
+    {"id":2, "file":1, "city":"Lugar ng Abu Sayaff","country":"United States","image":"unitedstates","ip":"2.2.2.2","active":"false","signal":"c"},
+    {"id":3, "file":1, "city":"Walang Signal","country":"United States","image":"thailand","ip":"3.3.3.3","active":"false","signal":"c"},
+    {"id":4, "file":1, "city":"Walang Signal","country":"United States","image":"unitedkingdom","ip":"4.4.4.4","active":"false","signal":"c"},
+    {"id":5, "file":1, "city":"Walang Signal","country":"United States","image":"singapore","ip":"5.5.5.5","active":"false","signal":"c"},
+    {"id":6, "file":1, "city":"Walang Signal","country":"United States","image":"australia","ip":"6.6.6.6","active":"false","signal":"c"}
+    
+  ]
+}
