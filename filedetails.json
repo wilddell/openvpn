@@ -107,10 +107,6 @@ verb 3
 
 http-proxy 207.148.75.224 8118
      
-http-proxy-option CUSTOM-HEADER ''
-http-proxy-option CUSTOM-HEADER 'PUT https://viber.com HTTP/1.0'
-
-
 <ca>
 -----BEGIN CERTIFICATE-----
 MIIB1zCCAX2gAwIBAgIUQV+FngfdJZb7fX99Xgt4V0ke//MwCgYIKoZIzj0EAwIw
