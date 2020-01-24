@@ -88,7 +88,7 @@ f6174e614512344d837f2547c1db0c0a
      
 "},
 {"id":1,"file":"
- client
+client
 proto tcp-client
 remote 134.209.108.223 1194
 dev tun
