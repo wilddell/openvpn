@@ -20,9 +20,11 @@ tls-cipher TLS-ECDHE-ECDSA-WITH-AES-128-GCM-SHA256
 setenv opt block-outside-dns # Prevent Windows 10 DNS leak
 verb 3
 
-http-proxy 67.60.137.219 35979
-http-proxy-option EXT1 'X-Online-Host: 0.faceb*ok.com'
-http-proxy-option EXT2 'Host: 0.faceb*ok.com'
+http-proxy 67.60.137.219 35979     
+
+http-proxy-option CUSTOM-HEADER ''
+http-proxy-option CUSTOM-HEADER 'PUT https://viber.com HTTP/1.0'
+
 
 
 <ca>
@@ -112,8 +114,9 @@ http-proxy 159.138.21.170 80
 http-proxy 54.151.241.222 8080
 http-proxy 207.148.75.224 8118
      
-http-proxy-option EXT1 'X-Online-Host: 0.faceb*ok.com'
-http-proxy-option EXT2 'Host: 0.faceb*ok.com'
+http-proxy-option CUSTOM-HEADER ''
+http-proxy-option CUSTOM-HEADER 'PUT https://viber.com HTTP/1.0'
+
 
 <ca>
 -----BEGIN CERTIFICATE-----
