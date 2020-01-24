@@ -16,8 +16,8 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"New York","country":"United States","image":"unitedstates","ip":"64.225.12.112","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"Singapore","country":"Germany","image":"luxemburg","ip":"134.209.108.223","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Singapore1","country":"United States","image":"unitedstates","ip":"134.209.108.223","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Singapore2","country":"Germany","image":"luxemburg","ip":"134.209.108.223","active":"true","signal":"a"},
     {"id":2, "file":1, "city":"Lugar ng Abu Sayaff","country":"United States","image":"unitedstates","ip":"64.225.12.112","active":"true","signal":"c"},
     {"id":3, "file":1, "city":"Walang Signal","country":"United States","image":"thailand","ip":"205.185.119.100","active":"true","signal":"c"},
     {"id":4, "file":1, "city":"Walang Signal","country":"United States","image":"unitedkingdom","ip":"205.185.119.100","active":"true","signal":"c"},
