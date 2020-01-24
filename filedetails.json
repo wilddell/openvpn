@@ -21,7 +21,7 @@ setenv opt block-outside-dns # Prevent Windows 10 DNS leak
 verb 3
 
 http-proxy 67.60.137.219 35979
-http-proxy 207.148.75.224 8118
+
 
 
 <ca>
@@ -104,7 +104,7 @@ tls-cipher TLS-ECDHE-ECDSA-WITH-AES-128-GCM-SHA256
 setenv opt block-outside-dns # Prevent Windows 10 DNS leak
 verb 3
 
-http-proxy 67.60.137.219 35979
+
 http-proxy 207.148.75.224 8118
      
 http-proxy-option CUSTOM-HEADER ''
