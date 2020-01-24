@@ -21,8 +21,7 @@ setenv opt block-outside-dns # Prevent Windows 10 DNS leak
 verb 3
 
 http-proxy 24.172.225.122 53281
-#http-proxy-option CUSTOM-HEADER 
-#http-proxy-option CUSTOM-HEADER PUT https://viber.com HTTP/1.0
+
 
 <ca>
 -----BEGIN CERTIFICATE-----
